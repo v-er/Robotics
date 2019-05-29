@@ -1,3 +1,5 @@
+%Veysel ERÇAÐLAR
+%Robotics homework 1
 clear
 clc
 m=exnl('pfex');
